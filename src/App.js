@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Main Branch</h1>
+      <h1>Production branch</h1>
     </div>
   );
 }
